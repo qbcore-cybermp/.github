@@ -1,19 +1,22 @@
-# Welcome to QBCore CyberMP 👋
+# QBCore CyberMP
 
-QBCore CyberMP is a FiveM framework community focused on building high-quality, immersive roleplay experiences.
+**QBCore CyberMP** is the home for open-source, QBCore-inspired roleplay systems built for [CyberMP](https://github.com/Cyber-MP), a custom multiplayer platform for Cyberpunk 2077.
 
-## 🚀 About Us
+## 🚀 What We Build
 
-We develop and maintain scripts, resources, and tools for the QBCore FiveM framework with a cyberpunk theme.
+- **Framework modules** — Reusable foundations for players, characters, permissions, and persistence
+- **Gameplay systems** — Jobs, economy, inventory, progression, and world interactions
+- **Developer tooling** — Libraries, integrations, and examples for CyberMP creators
 
-## 📦 Our Projects
+## 📦 Getting Started
 
-Browse our repositories to find scripts, resources, and utilities for your QBCore server.
+This organization is in early development. Published projects will include their own installation, configuration, and usage instructions.
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Check out individual repositories for contribution guidelines.
+Contributions are welcome. Review the relevant repository's README and contribution guidance before opening an issue or pull request.
 
-## 📫 Contact
+## 💬 Community
 
-- Open an issue in the relevant repository for bug reports or feature requests.
+- [QBCore website](https://qbcore.org)
+- [Discord](https://discord.gg/qbcore)
